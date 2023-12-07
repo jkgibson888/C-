@@ -1,0 +1,6 @@
+﻿  main.cpp
+  roster.cpp
+c:\users\techt\source\repos\c867_assessment\c867_assessment\roster.cpp(86): warning C4018: '<': signed/unsigned mismatch
+  student.cpp
+  Generating Code...
+  C867_Assessment.vcxproj -> C:\Users\techt\source\repos\C867_Assessment\Debug\C867_Assessment.exe
